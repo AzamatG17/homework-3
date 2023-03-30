@@ -21,7 +21,7 @@ namespace Ex_1
                 num = num2;
 
             }
-            Console.WriteLine(to);
+            //Console.WriteLine(to);
             string wo = "";
             for (int j = to.Length - 1; j >= 0; j--)
             {
