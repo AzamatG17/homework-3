@@ -15,7 +15,7 @@ namespace Ex_7
             int fak = 1;
             for (int i = 1; i <= num; i++)
             {
-                fak *= i;
+                  fak *= i;
             }
             Console.WriteLine($" Faktorial : {fak}");
         }
