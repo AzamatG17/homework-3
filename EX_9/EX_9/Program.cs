@@ -10,7 +10,7 @@ namespace EX_9
     {
         static void Main(string[] args)
         {
-            Console.Write(" : ");
+            Console.Write(" = ");
             int num = int.Parse(Console.ReadLine());
             if (num % 2 != 0 && num % 3 != 0)
             {
