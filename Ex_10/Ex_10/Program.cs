@@ -11,6 +11,7 @@ namespace Ex_10
     {
         static void Main(string[] args)
         {
+            Console.Write(" : ");
             int num = int.Parse(Console.ReadLine());
             int fib = 1,sum = 0;
             for (int i = 1; i <= num; i++)
