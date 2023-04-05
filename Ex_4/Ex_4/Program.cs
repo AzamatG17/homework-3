@@ -10,6 +10,7 @@ namespace Ex_4
     {
         static void Main(string[] args)
         {
+            Console.Write(" : ");
             int num = int.Parse(Console.ReadLine());
             for (int i = 1; i < 100; i++)
             {
