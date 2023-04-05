@@ -14,7 +14,7 @@ namespace Ex__2
             Console.Write(" : ");
             int fak = int.Parse(Console.ReadLine());
             int num = 1;
-            for(int i = 1;i <= fak; i++)
+            for (int i = 1; i <= fak; i++)
             {
                 num *= i;
             }
