@@ -27,6 +27,7 @@ namespace Ex_1
             {
                 Console.Write(to[j]);
             }
+
             Console.WriteLine();
         }
     }
